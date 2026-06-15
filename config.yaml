@@ -1,0 +1,6 @@
+sip:
+  host: 10.10.10.10
+  port: 5060
+  username: test001
+  password: secret
+  domain: 10.10.10.10
